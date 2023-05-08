@@ -1,4 +1,3 @@
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 # ThreeJS 3D Product Website with Artificial Intelligence
 
 This project is a ThreeJS 3D product website infused with the power of artificial intelligence. It is designed to help users create and customize stunning 3D models and geometries using various lights and camera positions, as well as add custom color and file support. The project also features TailwindCSS for styling and Framer Motion for animations, ensuring responsiveness across all devices and improving site performance.
@@ -37,4 +36,4 @@ Once the website is running, you can create and customize stunning 3D models and
 
 ## Credits
 
-This project was built by [Johan Rubio] as a demonstration of how to build a ThreeJS 3D product website infused with the power of artificial intelligence. The project utilizes the power of ThreeJS, React Three Fiber, TailwindCSS, Framer Motion, and DALLE AI to create stunning 3D models with customizable color and file support.
+This project was built by Johan Rubio as a demonstration of how to build a ThreeJS 3D product website infused with the power of artificial intelligence. The project utilizes the power of ThreeJS, React Three Fiber, TailwindCSS, Framer Motion, and DALLE AI to create stunning 3D models with customizable color and file support.
