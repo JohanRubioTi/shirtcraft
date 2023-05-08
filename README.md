@@ -33,7 +33,3 @@ To install and run this project on your local machine, you will need to follow t
 ## Usage
 
 Once the website is running, you can create and customize stunning 3D models and geometries using the controls provided on the website. The project also allows you to generate images through DALLE AI and download the resulting t-shirt model image.
-
-## Credits
-
-This project was built by Johan Rubio as a demonstration of how to build a ThreeJS 3D product website infused with the power of artificial intelligence. The project utilizes the power of ThreeJS, React Three Fiber, TailwindCSS, Framer Motion, and DALLE AI to create stunning 3D models with customizable color and file support.
